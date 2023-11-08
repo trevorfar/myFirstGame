@@ -1,0 +1,4 @@
+repository "FirstGame@trevorof@cloud"
+  path "/"
+    br "/main"
+    co "/main"
